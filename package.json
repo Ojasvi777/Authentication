@@ -1,0 +1,36 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000u\u0000t\u0000h\u0000 \u0000P\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000#\u0000 \u0000A\u0000u\u0000t\u0000h\u0000e\u0000n\u0000t\u0000i\u0000c\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avadhoot1905/Authentication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Avadhoot1905/Authentication/issues"
+  },
+  "homepage": "https://github.com/Avadhoot1905/Authentication#readme",
+  "dependencies": {
+    "@auth/prisma-adapter": "^2.10.0",
+    "@prisma/client": "^6.14.0",
+    "next": "^15.4.6",
+    "next-auth": "^4.24.11",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.2.1",
+    "@types/react": "^19.1.10",
+    "prisma": "^6.14.0",
+    "typescript": "^5.9.2"
+  }
+}
